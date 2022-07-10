@@ -1,9 +1,7 @@
 body {
-  font-family: "Raleway", sans-serif;
+  font-family: "italic";
 }
-/*.container1 {
-  height: 3.8em;
-}*/
+
 .img-fluid{
   height: 3em;
   width: 100%;
@@ -32,6 +30,7 @@ body {
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
+
 }
 
 @media (max-width: 768px) {
