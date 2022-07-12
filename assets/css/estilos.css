@@ -40,8 +40,12 @@ h3{
 }
 
 @media (max-width: 768px) {
+  body{
+    background-color:#FAD8CE;
+  }
   #Contacto form label {
     font-weight: 400;
+
   }
 
   .navbar-brand{
